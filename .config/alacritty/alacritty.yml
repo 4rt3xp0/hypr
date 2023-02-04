@@ -1,5 +1,5 @@
 import:
-  - ~/.config/alacritty/catppuccin/catppuccin-mocha.yml
+  - ~/.config/alacritty/mocha.yml
 # colors:
 #   primary:
 #     background: '0x000000'
